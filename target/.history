@@ -1,0 +1,14 @@
+ls
+compile
+run
+test
+exit
+gen-idea
+compile
+import src.main.scala.de.arlab.formulas._
+inport de.arlab.formulas._
+import de.arlab.formulas._
+compile
+import de.arlab.formulas._
+console
+ll
